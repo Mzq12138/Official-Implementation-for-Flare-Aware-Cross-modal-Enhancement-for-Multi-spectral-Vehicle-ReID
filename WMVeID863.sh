@@ -1,0 +1,1 @@
+python train.py --config_file configs/WMVeID863/facenet_wmveid863.yml

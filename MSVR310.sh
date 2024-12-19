@@ -1,0 +1,1 @@
+python train.py --config_file configs/MSVR310/facenet_msvr310.yml
